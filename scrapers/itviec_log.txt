@@ -1,0 +1,776 @@
+🚀 Bắt đầu cào data từ ITviec (HTTP-first)...
+
+👉 Đang cào trang 1...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Forward Deployed Engineer (Cloud, AWS, Azure)
+    [~] DB đã có: Chief Architect/CTO (Banking)
+    [~] DB đã có: Senior Security Operations Engineer
+    [~] DB đã có: [Da Nang] Tech Lead - AI Agent Products
+    [~] DB đã có: [SIGNING BONUS] BrSE - UPTO 60M
+    [~] DB đã có: Mid/Senior Automation Test (Tester, Automation QA)
+    [~] DB đã có: Mid/Sr NodeJS Fullstack Developer (ReactJS, TypeScript)
+    [~] DB đã có: Principal Golang Engineer in HCM/Hanoi
+    [~] DB đã có: Senior/Lead Site Reliability Engineer (GCP) - Payments
+    [~] DB đã có: 2D Concept Artist Senior
+    [~] DB đã có: Data Architect / Lead Data Engineer - Core Banking
+    [~] DB đã có: Mid Fullstack Dev ( Python/ Java/ NodeJS/ React/ Vue)
+    [~] DB đã có: Mid DevOps Engineer (AWS / Terraform / Docker/ Linux)
+    [~] DB đã có: Medior Enterprise Security Architect
+    [~] DB đã có: Expert, IT Risk (Techcom Insurance)
+    [~] DB đã có: Manual Tester
+    [~] DB đã có: Lead / Senior Fullstack Developer (ReactJS, NodeJS)
+    [~] DB đã có: Fullstack Engineer (Typescript/Javascript)
+    [~] DB đã có: Senior Backend Engineer - DevX (TypeScript, AWS)
+    [~] DB đã có: Phân tích nghiệp vụ Business Analyst (Scrum, ERP)
+
+👉 Đang cào trang 2...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Senior Engineer, Technical Support
+    [~] DB đã có: Senior/Expert Incident Responder (Platform) (24/7 Team)
+    [~] DB đã có: APO Leader (Japanese IT Comtor, Bridge Engineer, BrSE)
+    [~] DB đã có: FullStack Team Lead (.NET)
+    [~] DB đã có: CG Kiến trúc sư Giải pháp (Senior Solution Architect)
+    [~] DB đã có: [Remote] Mobile Game Developer (Upto $2,000)
+    [~] DB đã có: Senior System Architect (Distributed Systems)
+    [~] DB đã có: [Hà Tĩnh] 2 Nhân Viên Kỹ Thuật - Không YC Kinh Nghiệm
+    [~] DB đã có: Senior Frontend Engineer (Vue/ Angular/ React, English)
+    [~] DB đã có: Senior Golang Engineer (Backend)
+    [~] DB đã có: Performance QA Engineer
+    [~] DB đã có: Senior Business Model Validation Analyst (BI)
+    [~] DB đã có: Deputy Head of Machine Learning Engineering
+    [~] DB đã có: Senior Machine Learning Engineer
+    [~] DB đã có: Full-stack Developer (.NET)
+    [~] DB đã có: Product Manager
+    [~] DB đã có: Database Expert (Oracle, MongoDB, SQL)
+    [~] DB đã có: IT System Admin and Support (Hanoi)
+    [~] DB đã có: Senior IT Business Analyst
+    [~] DB đã có: Senior/Principal Ruby on Rails Developer (AWS, Backend)
+
+👉 Đang cào trang 3...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Java Backend Developer (Java 17+, Spring Boot, English)
+    [~] DB đã có: Senior Agentics AI Engineer
+    [~] DB đã có: DevOps Engineer - CI Tools (Jenkins, Artifactory)
+    [~] DB đã có: [Da Nang] QA Engineer
+    [~] DB đã có: AI Tech Lead — Context & Harness
+    [~] DB đã có: Middle Data Engineer (Apache Spark, Trino)
+    [~] DB đã có: Middle Fullstack Engineer (Nuxt.js/ Node.js)
+    [~] DB đã có: [Da Nang] Technical Architect
+    [~] DB đã có: Senior Solution Architect - Engineering (Golang/ Java)
+    [~] DB đã có: Sr DevOps Engineer (Cloud, Terraform, AWS) Up to 50M
+    [~] DB đã có: Senior PHP Software Engineer (Fullstack, SaaS product)
+    [~] DB đã có: Senior Java Software Engineer (Fullstack, SaaS product)
+    [~] DB đã có: Data Engineer (Big Data / Lakehouse)
+    [~] DB đã có: Senior/Expert Data Architect (Database, ETL/ELT)
+    [~] DB đã có: Expert of Application Architecture
+    [~] DB đã có: Team Lead - Senior Backend Dev Backbase
+    [~] DB đã có: Senior Database Administrator (PostgreSQL/AWS/Aurora)
+    [~] DB đã có: QA Team Lead
+    [~] DB đã có: Project Leader/ BrSE (Japanese N2+)
+    [~] DB đã có: Senior AI Engineer (Computer Vision/NLP/LLM)
+
+👉 Đang cào trang 4...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: AI Expert (Computer Vision/NLP/LLM)
+    [~] DB đã có: Agentic Engineer (Python/Go/C/C++ Backend & AI Agents)
+    [~] DB đã có: MB Trainee - AI Engineer (Fresher, Intern)
+    [~] DB đã có: AI Software Engineer (Python/Go/C/C++ & AI Agents)
+    [~] DB đã có: Senior AI Expert (Machine Learning, Deep Learning, LLM)
+    [~] DB đã có: [All level] AI Engineer (Computer Vision/NLP/LLM)
+    [~] DB đã có: (Middle, Senior) FullStack Developer
+    [~] DB đã có: [All Level] BackEnd Engineer (Java, Springboot)
+    [~] DB đã có: (Junior, Senior) FullStack Developer
+    [~] DB đã có: [Middle, Senior] BackEnd Engineer (Java, Spring Boot)
+    [~] DB đã có: CVCC Quản trị dữ liệu (Data Governance, SQL, R )-K.CNTT
+    [~] DB đã có: Bridge System Engineer (Japanesse speaking)
+    [~] DB đã có: Unity Game Developer (C#)
+    [~] DB đã có: Kỹ sư Giải pháp Cloud
+    [~] DB đã có: Backend Developer (Rust/ C/ C++)
+    [~] DB đã có: Technical Program Manager
+    [~] DB đã có: Project Manager
+    [~] DB đã có: Senior Product Data Analyst (SQL/Python/R)
+    [~] DB đã có: Software Engineer (Fullstack, AI-Native)
+    [~] DB đã có: Chuyên gia vận hành Core Banking T24
+
+👉 Đang cào trang 5...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Japanese Speaking Project Manager (HCM, Hanoi, Danang)
+    [~] DB đã có: Project Manager (Java, Chinese, English, MySQL, SQL)
+    [~] DB đã có: Senior Fullstack Engineer
+    [~] DB đã có: AI Engineer (hands-on)
+    [~] DB đã có: Senior Database Developer - SQL Server
+    [~] DB đã có: Engineering Manager- (DevOps & SRE)
+    [~] DB đã có: DevOps Engineer (Python, AWS, Linux)
+    [~] DB đã có: C++/ C# Unity (Cộng tác viên làm việc fulltime tại VP)
+    [~] DB đã có: Staff AI Engineer - Report to CTO
+    [~] DB đã có: BrSE/ Senior BrSE (tiếng Nhật N2)
+    [~] DB đã có: Senior C++ Developer
+    [~] DB đã có: [Da Nang] UI/UX Designer
+    [~] DB đã có: Division Principal Games Programmer (Unreal Engine, AI)
+    [~] DB đã có: Head Of AI (AI Product & Transformation)
+    [~] DB đã có: Senior/ Lead PHP developer (Symfony, English)
+    [~] DB đã có: Senior Full-Stack Developer – CRM, Voice & U
+    [~] DB đã có: Associate Product Owner (IT Comtor, Japanese N1)
+    [~] DB đã có: Cobol Developer (English Speaking)
+    [~] DB đã có: Principal iOS Native Engineer (Swift)
+    [~] DB đã có: Head of Testing Platform (Automation /Performance Test)
+
+👉 Đang cào trang 6...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Principal Android Native Engineer (Kotlin)
+    [~] DB đã có: CV/CVCC Phát triển hệ thống Quản trị tài chính - K.CNTT
+    [+] Head of Enterprise Data (AI/Database/Data Science) | Sal:  | Exp: 3 năm
+    [+] [Danang] Project Management Officer (Japanese N2) | Sal:  | Exp: 3 năm
+    [+] Senior Security Operations (Vận hành an ninh) | Sal: 1,000 - 3,000 USD | Exp: 3 năm
+    [+] Senior IT Security Solution Officer | Sal: 1,000 - 2,000 USD | Exp: 3 năm
+    [+] Chuyên gia tích hợp dữ liệu (Data Engineer Expert) | Sal: 1,500 - 2,500 USD | Exp: 5 năm
+    [+] Solution Architecture Deputy Manager (Data modeling,AI) | Sal:  | Exp: 5 năm
+    [+] Frontend Engineer (ReactJS) | Sal: 1,000 - 3,000 USD | Exp: 10 tháng
+    [+] Enterprise Architect (Infrastructure, Cloud) | Sal: 1,500 - 2,500 USD | Exp: 3 năm
+    [+] Embedded SW Engineer (Flash Boot Loader) | Sal:  | Exp: 10 tháng
+    [+] Senior Embedded Integration Engineer (CI/CT) | Sal:  | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 10 JDs...
+    [+] Chuyên viên Vận hành Ứng dụng (Application Support L1) | Sal:  | Exp: 10 tháng
+    [+] Senior Data Analyst (CRM & Loyalty) | Sal: 1,500 - 2,000 USD | Exp: 3 năm
+    [+] Backend Engineer (Insurance Or Banking Domain) | Sal:  | Exp: 3 năm
+    [+] System Maintenance & Operation Engineer | Sal:  | Exp: 3 năm
+    [+] Expert, Software Engineer (Tech Lead) | Sal:  | Exp: 3 năm
+    [+] Solution Architect (Banking/Fintech) | Sal:  | Exp: 5 năm
+    [+] AI Operations Manager (from 5yoe, Excellent English) | Sal: 3,400 - 4,500 USD | Exp: 5 năm
+    [+] Technical Architect (Microservices, API, Docker, CI/CD) | Sal: 1,000 - 2,000 USD | Exp: 10 tháng
+
+👉 Đang cào trang 7...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] AI Software Engineer | Sal:  | Exp: 10 tháng
+    [+] Senior Full-stack Developer (C#, .NET Core, React) | Sal: 1,500 - 2,000 USD | Exp: 3 năm
+    [⏸] Nghỉ 5s sau 20 JDs...
+    [+] Technical Engineering Manager (Manufacturing) | Sal:  | Exp: 5 năm
+    [+] Junior/Middle Software Engineer (.NET) | Sal:  | Exp: 10 tháng
+    [+] Presales Engineer (Cloud, AWS) | Sal:  | Exp: 10 tháng
+    [+] Senior Project Manager | Sal:  | Exp: 3 năm
+    [+] Senior DevOps Engineer | Sal:  | Exp: 3 năm
+    [+] Nhân viên quản trị mạng (Network Administrator) | Sal: 900 - 1,200 USD | Exp: 10 tháng
+    [+] Senior Business Analyst (Onboard ASAP, English) | Sal:  | Exp: 3 năm
+    [+] Senior DevOps Engineer (Cloud Azure) | Sal:  | Exp: 3 năm
+    [+] QA Engineer (Tester, QA QC, English) Up to $1500 | Sal: 1,000 - 1,500 USD | Exp: 10 tháng
+    [+] [Da Nang] Product Owner | Sal:  | Exp: 3 năm
+    [⏸] Nghỉ 5s sau 30 JDs...
+    [+] Guidewire Developer | Sal:  | Exp: 10 tháng
+    [+] Asso. Manager, SRE (5+yrs, English) | Sal:  | Exp: 5 năm
+    [+] Senior Automation Tester (CI/CD, Linux, Git) | Sal:  | Exp: 3 năm
+    [+] Site Reliability Engineer II (2+ years - Good English) | Sal:  | Exp: 3 năm
+    [+] [Da Nang] Full-Stack Developer (ReactJS/ NodeJS) | Sal:  | Exp: 10 tháng
+    [+] Manual Tester (QA QC) | Sal: 500 - 1,200 USD | Exp: 10 tháng
+    [+] Middle/Senior Automation QC (Tester, QA QC) | Sal:  | Exp: 3 năm
+    [+] Technical Scrum Master | Sal:  | Exp: 5 năm
+
+👉 Đang cào trang 8...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] Solution Architecture Manager (Cloud) | Sal:  | Exp: 5 năm
+    [+] Mobile Developer (Flutter, ReactJS, Angular, C#, Java) | Sal:  | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 40 JDs...
+    [+] Backend Developer (Web/ API) | Sal:  | Exp: 10 tháng
+    [+] Business Analyst (BRD, User Story, Jira, Azure, SQL) | Sal:  | Exp: 3 năm
+    [+] Senior Database Administrator (DBA) | Sal:  | Exp: 3 năm
+    [+] AI Consultant (AI, HPC) | Sal:  | Exp: 3 năm
+    [+] AI Engineer (Remote) | Sal: 1,000 - 1,300 USD | Exp: 10 tháng
+    [+] IT Operation Monitoring - Khối Công nghệ thông tin | Sal:  | Exp: 10 tháng
+    [+] Middle QA (Automation Test) | Sal:  | Exp: 10 tháng
+    [+] IT Business Analyst (Fintech, English/ Mandarin) | Sal: 700 - 1,300 USD | Exp: 10 tháng
+    [+] DevOps Engineer (CI/CD, Automation) | Sal:  | Exp: 10 tháng
+    [+] React Native Developer (JavaScript, Mobile Apps) | Sal: 500 - 800 USD | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 50 JDs...
+    [+] Sr/Expert AI Engineer (Data Scientist, Python) - 4B063 | Sal:  | Exp: 10 tháng
+    [+] Principal Java/Kotlin Engineer (Banking Project) | Sal:  | Exp: 3 năm
+    [+] DevOps / Senior System Engineer (Kubernetes) | Sal: 1,300 - 2,300 USD | Exp: 3 năm
+    [+] DevOps Engineer (Mid/Senior) | Sal:  | Exp: 10 tháng
+    [+] Product Manager (Data-Driven) | Sal: 2,500 - 3,500 USD | Exp: 3 năm
+    [+] Senior Business Analyst (BA, Agile/Scrum, SQL) | Sal:  | Exp: 10 tháng
+    [+] Senior SOC Engineer | Sal:  | Exp: 3 năm
+    [+] Principal DevOps Engineer- NCP | Sal: 4,000 - 5,000 USD | Exp: 3 năm
+
+👉 Đang cào trang 9...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] Application Security Engineer (RedTeam/Pentest) | Sal:  | Exp: 3 năm
+    [+] Middle Software Engineer (HCM/ HN) | Sal:  | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 60 JDs...
+    [+] MB Trainee- Information Security GRC  (Fresher, Intern) | Sal:  | Exp: 
+    [+] Cloud DevOps Engineer (Azure/AWS & Red Hat) | Sal:  | Exp: 3 năm
+    [+] [HCM] Bridge System Engineer - AI Solutions  (N1) | Sal: 2,500 - 3,500 USD | Exp: 3 năm
+    [+] Junior/Middle FullStack Engineer (Python, Java, NodeJS) | Sal:  | Exp: 10 tháng
+    [+] Principal Security Software Engineer (Digital Banking) | Sal:  | Exp: 3 năm
+    [+] Senior Data Engineer (C++, Python, AI/LLM) | Sal:  | Exp: 3 năm
+    [+] Manual Test (Chuyên viên kiểm thử) | Sal:  | Exp: 10 tháng
+    [+] Bridge System Engineer (Japanese N1/N2) | Sal:  | Exp: 3 năm
+    [+] Security Operations Engineer (Expert/Senior) | Sal:  | Exp: 3 năm
+    [+] Senior Security Operations Center (SOC) Specialist | Sal: 700 - 1,500 USD | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 70 JDs...
+    [+] Junior/Senior Software Developers (PHP/Laravel, Java) | Sal:  | Exp: 10 tháng
+    [+] Full-stack Developer (Java / Go · Angular / ReactJS) | Sal:  | Exp: 10 tháng
+    [+] Database Engineer (DBA) | Sal:  | Exp: 
+    [+] Senior/Lead - Software Engineer | Sal:  | Exp: 3 năm
+    [+] Senior QC Engineer (API Testing) | Sal: 1,000 - 1,500 USD | Exp: 3 năm
+    [+] [Hanoi] Fullstack QA Engineer Lead (Manual, Auto, AI) | Sal:  | Exp: 3 năm
+    [+] Techinical Lead (.Net) | Sal:  | Exp: 3 năm
+    [+] Technical Principal/Solution Architect | Sal: 2,000 - 3,000 USD | Exp: 3 năm
+
+👉 Đang cào trang 10...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] Software Engineer (HTML5,  JavaScript/TypeScript, .NET) | Sal:  | Exp: 3 năm
+    [+] Fullstack (Java/React) | Sal: 700 - 1,800 USD | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 80 JDs...
+    [+] Manager Cybersecurity Engineer | Sal: 2,000 - 4,000 USD | Exp: 3 năm
+    [+] Software Development Engineer in Test (SDET) | Sal:  | Exp: 3 năm
+    [+] Frontend Developer (Angular) | Sal:  | Exp: 10 tháng
+    [+] Senior DevOps Engineer | Sal:  | Exp: 3 năm
+    [+] SAP ABAP Cloud/ RAP Technical Consultant | Sal:  | Exp: 
+    [+] Senior UIX Designer | Sal:  | Exp: 3 năm
+    [+] Senior Golang Developer (Backend, AWS, MySQL) | Sal:  | Exp: 3 năm
+    [+] Principal Frontend Engineer (ReactJS/ VueJS) | Sal:  | Exp: 3 năm
+    [+] Java Backend  - Middle+  - Upto 3000$ | Sal: 1,000 - 3,000 USD | Exp: 10 tháng
+    [+] Senior/Middle Site Reliability Engineer | Sal:  | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 90 JDs...
+    [+] Senior Software Engineer (PHP/ Java/ Golang/ Python) | Sal:  | Exp: 3 năm
+    [+] Junior Security Engineer | Sal:  | Exp: 10 tháng
+    [+] Solution Architect, Security Product | Sal: 6,000 - 9,000 USD | Exp: 5 năm
+    [+] Mobile Architect | Sal:  | Exp: 3 năm
+    [+] Business Analyst (Banking/ Finance) | Sal:  | Exp: 3 năm
+    [+] Project Manager (English) | Sal:  | Exp: 3 năm
+    [+] Senior Backend Engineer (Java/Spring) - GSaaS | Sal:  | Exp: 10 tháng
+    [+] Middle - Senior Business Analyst (OEM Integrations) | Sal:  | Exp: 3 năm
+
+👉 Đang cào trang 11...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] Senior Mobile Engineer Collaborator (IOS/Android) | Sal:  | Exp: 3 năm
+    [+] Junior Android Developer (Kotlin/Java) | Sal:  | Exp: 
+    [⏸] Nghỉ 5s sau 100 JDs...
+    [+] Junior Backend Developer (PHP/ NodeJS/ Ruby on Rails) | Sal:  | Exp: 
+    [+] Senior Software Engineer (Python) | Sal:  | Exp: 3 năm
+    [+] Cloud Security Engineer Expert | Sal: 1,000 - 2,400 USD | Exp: 3 năm
+    [+] Senior Fullstack Engineer | Sal:  | Exp: 3 năm
+    [+] Senior AI Data Engineer (Python, SQL, Data Warehouse) | Sal:  | Exp: 3 năm
+    [+] Java Developer (Spring Boot, Microservices, Oracle) | Sal:  | Exp: 10 tháng
+    [+] DevOps/Platform Engineer | Sal: 700 - 1,000 USD | Exp: 10 tháng
+    [+] .NET Fullstack Developer (C#/ ASP.NET/ SQL) | Sal:  | Exp: 10 tháng
+    [+] IT Support | Sal: 500 - 700 USD | Exp: 10 tháng
+    [+] Business Analyst – POEMS Digital Trading (Agile, Jira) | Sal: 1,000 - 1,500 USD | Exp: 3 năm
+    [⏸] Nghỉ 5s sau 110 JDs...
+    [+] Cloud Solution Architect (AWS/Azure) (Senior, Junior) | Sal:  | Exp: 10 tháng
+    [+] Product Manager (Product Owner, Monetization Manager) | Sal: 1,000 - 3,000 USD | Exp: 10 tháng
+    [+] Senior Software Developer (Java/ Golang/ Angular) | Sal:  | Exp: 3 năm
+    [+] Call Center Engineer | Sal:  | Exp: 3 năm
+    [+] Modern ERP Software Engineer | Sal: 2,500 - 4,000 USD | Exp: 3 năm
+    [+] Principal AI-native Full-stack Software Engineer | Sal: 3,000 - 5,000 USD | Exp: 3 năm
+    [+] Business Analyst (Travel Tech – Web & Mobile) | Sal:  | Exp: 10 tháng
+    [+] Technical Lead (C#, .NET, Azure) | Sal:  | Exp: 3 năm
+
+👉 Đang cào trang 12...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] Product Engineer (Fresher/Junior) | Sal: 500 - 1,000 USD | Exp: 
+    [+] Intermediate Angular Developer (English) | Sal:  | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 120 JDs...
+    [+] Senior DevOps Engineer (CI/CD - Cloud) | Sal:  | Exp: 10 tháng
+    [+] Senior Business Analyst (Securities/Banking Domain) | Sal:  | Exp: 3 năm
+    [+] [Remote] Business Analyst - Up to $1500 | Sal: 1,000 - 1,500 USD | Exp: 3 năm
+    [+] Test Automation Engineer | Sal:  | Exp: 10 tháng
+    [+] Senior Product Owner | Sal: 1,500 - 2,000 USD | Exp: 3 năm
+    [+] Mid/Senior DevOps Engineer (Kubernetes, Linux) | Sal:  | Exp: 10 tháng
+    [+] IT Helpdesk / Technical Support (JLPT N3 Required) | Sal:  | Exp: 10 tháng
+    [+] Middle Backend Developer ( NestJS ) | Sal: 700 - 900 USD | Exp: 3 năm
+    [+] Viettel AI_Nhân viên IT Helpdesk | Sal:  | Exp: 10 tháng
+    [+] Business Analyst (Digital investment) | Sal:  | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 130 JDs...
+    [+] Middle/Senior Backend Developer (Golang, PostgreSQL) | Sal:  | Exp: 3 năm
+    [+] Applied AI Engineer | Sal:  | Exp: 3 năm
+    [+] Machine Learning Engineer | Sal:  | Exp: 3 năm
+    [+] Technical Program Manager - MCA Asia | Sal:  | Exp: 3 năm
+    [+] Senior DevOps Engineer (Cloud, AWS) | Sal:  | Exp: 3 năm
+    [+] Mobile Community, Design System Architect (Android,iOS) | Sal:  | Exp: 3 năm
+    [+] Android Developer (Kotlin) | Sal:  | Exp: 3 năm
+    [+] Technical Scrum Master | Sal:  | Exp: 3 năm
+
+👉 Đang cào trang 13...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] QA Lead (Automation Test, Java, Python, SQL, JMeter) | Sal:  | Exp: 10 tháng
+    [+] Lead Test Engineer (Manual + Automation) | Sal:  | Exp: 3 năm
+    [⏸] Nghỉ 5s sau 140 JDs...
+    [+] Database Administrator (PostgreSQL, Oracle) | Sal:  | Exp: 10 tháng
+    [+] Backend Developer (Java/Spring Boot) | Sal: 1,000 - 1,500 USD | Exp: 10 tháng
+    [+] Backend Engineer (Nodejs) | Sal:  | Exp: 3 năm
+    [+] Java Developer (Spring, OOP) Up to $2000 | Sal: 1,000 - 2,000 USD | Exp: 10 tháng
+    [+] All levels Fullstack Dev ( Cloud, CI/CD) | Sal: 1,000 - 2,500 USD | Exp: 3 năm
+    [+] Software Test Automation Engineer | Sal:  | Exp: 10 tháng
+    [+] Backend Developer | Sal:  | Exp: 3 năm
+    [+] Senior Frontend Engineer -React, TypeScript, JavaScript | Sal:  | Exp: 3 năm
+    [+] Senior Cloud, DevOps & Hybrid Infrastructure Engineer | Sal:  | Exp: 3 năm
+    [+] Senior Backend Engineer (Go/Golang, NodeJS, TypeScript) | Sal:  | Exp: 3 năm
+    [⏸] Nghỉ 5s sau 150 JDs...
+    [+] API Integration Engineer - Core Banking | Sal:  | Exp: 3 năm
+    [+] Junior/Senior Frontend Developer (ReacJS/VueJS/Angular) | Sal:  | Exp: 10 tháng
+    [+] Chuyên viên Vận hành ứng dụng | Sal:  | Exp: 10 tháng
+    [+] Mid/Senior Test Automation Engineer - BONUS | Sal:  | Exp: 3 năm
+    [+] Senior AI Native Engineer (Python, SQL, LLM, AWS) | Sal:  | Exp: 3 năm
+    [+] Full-stack Engineer (Golang/ReactJS)-Competitive Salary | Sal:  | Exp: 3 năm
+    [+] Senior Technical Engineer (DevOps/SRE, AI) | Sal:  | Exp: 3 năm
+    [+] Backend Engineer (Java/Spring) - Naver Clip | Sal:  | Exp: 3 năm
+
+👉 Đang cào trang 14...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] Middle QA/QC Engineer (Automation) | Sal:  | Exp: 10 tháng
+    [+] AI-Native Fullstack Developer / Vibe Coding Developer | Sal: 500 - 599 USD | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 160 JDs...
+    [+] Scrum Master (mid-level) | Sal:  | Exp: 10 tháng
+    [+] Technical Product Owner | Sal:  | Exp: 3 năm
+    [+] Senior Machine Learning Engineer (AI/ML/ 7-10 YOE) | Sal:  | Exp: 3 năm
+    [+] DevSecOps Engineer (DevOps, Python/Bash) | Sal:  | Exp: 10 tháng
+    [+] Backend Developer (Java/Spring Boot/SQL/Kafka) | Sal:  | Exp: 10 tháng
+    [+] Junior / Middle QA Software (Tester, QA QC) | Sal:  | Exp: 10 tháng
+    [+] Quảng Ngãi .NET FullStack Developer (C#, SQL, ReactJS) | Sal:  | Exp: 10 tháng
+    [+] Solution Architect | Sal:  | Exp: 3 năm
+    [+] Network Engineer (Firewall, System Admin, IT Support) | Sal:  | Exp: 10 tháng
+    [+] Senior Fullstack Engineer (NodeJS, ReactJS, Docker) | Sal:  | Exp: 3 năm
+    [⏸] Nghỉ 5s sau 170 JDs...
+    [+] Fullstack Team Leader (NodeJS, ReactJS, JavaScript) | Sal:  | Exp: 5 năm
+    [+] Backend Engineer (Java, Golang, Cloud, AWS, PostgreSQL) | Sal: 1,000 - 1,400 USD | Exp: 10 tháng
+    [+] Junior Data & AI Platform Engineer (SQL, Python) | Sal:  | Exp: 10 tháng
+    [+] [Fresher/Junior] AI Agent Engineer (Python, LLM) | Sal:  | Exp: 
+    [+] Implementation Specialist| Nightshift, open for Manager | Sal:  | Exp: 10 tháng
+    [+] Junior Business Analyst (ERP, Agile, BPMN) | Sal:  | Exp: 10 tháng
+    [+] DevOps Engineer (Kubernetes, AWS, CI/CD) | Sal:  | Exp: 3 năm
+    [+] Business Analyst (AI, Scrum, Figma, SQL) | Sal:  | Exp: 3 năm
+
+👉 Đang cào trang 15...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Thực tập sinh Phân tích nghiệp vụ
+    [~] DB đã có: Senior .NET Developer
+    [~] DB đã có: Thực tập sinh AI
+    [~] DB đã có: Thực tập sinh Khoa học dữ liệu & DA&DE
+    [~] DB đã có: Thực Tập Sinh Kiểm Thử Tự Động (Automation Testing)
+    [~] DB đã có: Penetration Tester — AI Safety & Security
+    [~] DB đã có: Lead AI Safety & Security Engineer (with Joining Bonus)
+    [~] DB đã có: Senior Technical Project Manager
+    [~] DB đã có: Senior Backend Engineer - Python/Django & AWS
+    [~] DB đã có: DevOps Intern (base Ops)
+    [~] DB đã có: BackEnd Engineer (Mid-level, Good English)
+    [~] DB đã có: IT Security Governance (Senior/Expert)
+    [~] DB đã có: Project Management Intern (Software, IT)
+    [~] DB đã có: Senior ERP Backend Software Engineer (Python, OOP, API)
+    [~] DB đã có: Java Developer Intern
+    [~] DB đã có: AI Engineer Intern
+    [~] DB đã có: Javascript Intern
+    [~] DB đã có: Senior Technical Product Manager (English)
+    [~] DB đã có: Senior Data Engineer
+    [~] DB đã có: Data & AI Automation Intern (Customer Care Center)
+
+👉 Đang cào trang 16...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Quality Control Intern (Software Tester)
+    [~] DB đã có: Product & AI Automation Intern
+    [~] DB đã có: System Engineer (Server/Storage/SAN)
+    [~] DB đã có: Technical Leader
+    [~] DB đã có: Data Govermance (Middle, Senior)/Quản trị Dữ liệu
+    [~] DB đã có: Principal Java Engineer
+    [~] DB đã có: Scrum Master/ Scrum Coach
+    [~] DB đã có: Hardware Engineer (Hardware Design, ARM, Embedded)
+    [~] DB đã có: Lead Penetration Tester (Web, API & AI Applications)
+    [~] DB đã có: Presales/Consultant (Salesforce, CRM)
+    [~] DB đã có: DevSecOps Engineer (SAST/DAST/K8S Security/SSDLC)
+    [~] DB đã có: SecOps Engineer (Kubernetes/Linux/IAM/ZTNA/DevSecOps)
+    [~] DB đã có: Lead QA Automation Engineer
+    [~] DB đã có: Automotive AUTOSAR Base SW Developer (Joining bonus)
+    [~] DB đã có: Power BI  (Business Intelligence, SQL, Python, BA)
+    [~] DB đã có: CyberSecurity/ Security Engineer
+    [~] DB đã có: Middle/Senior Embedded Software Engineer
+    [~] DB đã có: Full-stack Web Engineer Intern/Fresher (PHP/Ruby)
+    [~] DB đã có: Network & System Administrator
+    [~] DB đã có: Senior Solution Engineer/Pre-sales Consultant (English)
+
+👉 Đang cào trang 17...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Trưởng phòng Kỹ thuật JAVA (OMICall VoIP & AI)
+    [~] DB đã có: Engineering Manager (Banking/Fintech)
+    [~] DB đã có: Security Architect
+    [~] DB đã có: AI Automation Engineer (Senior/Lead)
+    [~] DB đã có: SOC Lead (Cybersecurity, AWS, Python,Incident Response)
+    [~] DB đã có: QA Automation Tester (C#, JavaScript, Java)
+    [~] DB đã có: Mid/Sr Java Developer (English Required) - Up to 3200$
+    [~] DB đã có: Database Administrator Developer (DBA)
+    [~] DB đã có: [Fresher/ Junior] Unity Developer (C#, OOP, Git)
+    [~] DB đã có: AI Product Owner (PATI OS, Product Management, Linux)
+    [~] DB đã có: Technical SW Project Manager (Embedded Automotive)
+    [~] DB đã có: Senior Telematics Software Engineer – Linux / Android
+    [~] DB đã có: Embedded Software Engineer (MCU, RTOS)
+    [~] DB đã có: Digital Leadership Opportunities at VPBank – ID10550
+    [~] DB đã có: Solution Architect & AI Strategy Lead
+    [~] DB đã có: Full-Stack AI Engineer
+    [~] DB đã có: Senior Product Owner (Personal Finance Platform)
+    [~] DB đã có: Technical Leader (Java Expert)
+    [~] DB đã có: SDET, Sr Automation Engineer
+    [~] DB đã có: Penetration Tester
+
+👉 Đang cào trang 18...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Data Engineer
+    [~] DB đã có: Business Central Consultant
+    [~] DB đã có: Middle QA Automation Engineer (Playwright, Selenium)
+    [~] DB đã có: Thực tập sinh Lập trình tích hợp
+    [~] DB đã có: Data Engineer (Good English) - Up to 75M
+    [~] DB đã có: Senior Backend Engineer
+    [~] DB đã có: AI Engineer
+    [~] DB đã có: Product Owner Leader/Manager (Japanese N1/N2)
+    [~] DB đã có: Quality Engineering (Senior Manager/Senior Expert)
+    [~] DB đã có: Sr. QA Engineer (from 6yoe, Automation, English)
+    [~] DB đã có: Quality Engineering Expert (Automation/Performance)
+    [~] DB đã có: Remote - Automation QA Lead
+    [~] DB đã có: .Net Developer (Medior/Senior level)
+    [~] DB đã có: [Game Live-Ops] Senior Game Designer
+    [~] DB đã có: [Game Live-Ops] Hybrid Puzzle Designer
+    [~] DB đã có: [Game Live-Ops] Senior Game 3D Artist (Unity)
+    [~] DB đã có: Senior Site Reliability Engineer (SRE, GCP, Kubernetes)
+    [~] DB đã có: Product Owner (Monetization)
+    [~] DB đã có: Senior .NET Core Developer (Microservices, C#, ASP.NET)
+    [~] DB đã có: Fresher Embedded Software Engineer (C/C++)
+
+👉 Đang cào trang 19...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Senior Site Reliability Engineer
+    [~] DB đã có: Senior Governance, Risk and Compliance (GRC)
+    [~] DB đã có: Business Leader – Digital Banking
+    [~] DB đã có: [Security] SOC Analyst
+    [~] DB đã có: Software Engineer
+    [~] DB đã có: Senior Presales Consultant – AI Solutions
+    [~] DB đã có: Fullstack Engineer (ReactJS, Ruby on Rails)
+    [~] DB đã có: Senior Fullstack Engineer
+    [~] DB đã có: Senior Business Model Validation Analyst (BI)
+    [~] DB đã có: Data Scientist - Data Division
+    [~] DB đã có: Senior Data Security - Data Division
+    [~] DB đã có: Data Quality Management Specialist - Data Division
+    [~] DB đã có: Machine Learning Operations (AI/ML Ops)
+    [~] DB đã có: Senior DevOps Engineer (System Development, CI/CD)
+    [~] DB đã có: Senior Fullstack Developer (Java / Vue)
+    [~] DB đã có: Chuyên Viên Phân Tích Giải Pháp (Business Analyst)
+    [~] DB đã có: Automation Tester (QA QC/ Tester/ Japanese N3+)
+    [~] DB đã có: Fullstack Engineer (React/ TypeScript/ Python/ SQL)
+    [~] DB đã có: Software System Engineer
+    [~] DB đã có: Senior IT Governance (ISO 27001, PCI DSS)
+
+👉 Đang cào trang 20...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Senior Full-Stack Developer (Laravel)
+    [~] DB đã có: Senior Fullstack Engineer (TypeScript, API, ReactJS)
+    [~] DB đã có: Senior Software Engineer (Python)
+    [~] DB đã có: [Internship-to-Hire] Semiconductor Layout Design Intern
+    [~] DB đã có: Senior DevOps/Data Engineer
+    [~] DB đã có: Senior/Techlead .NET Developer (C#, OOP, SQL)
+    [~] DB đã có: Backend Developer (Java/ Golang/ NodeJS)
+    [~] DB đã có: Hardware Engineer ((Embedded, IoT)
+    [~] DB đã có: Expert, DevSecOps
+    [~] DB đã có: Data Governance Manager (Consumer Finance) - Upto $4000
+    [~] DB đã có: Senior Software Engineer (AI)
+    [~] DB đã có: AI Engineer
+    [~] DB đã có: Senior/Lead - Data Engineering
+    [~] DB đã có: Lead QA/QC Engineer - Test Design (IoT product)
+    [~] DB đã có: [English] Middle-Senior Project Manager
+    [~] DB đã có: Senior Software Engineer (Java, J2EE, SQL)
+    [~] DB đã có: Mid-level Backend Developer
+    [~] DB đã có: Senior Systems Administrator
+    [~] DB đã có: Senior/Lead, Business Ownership (Product & Growth)
+    [~] DB đã có: Tập sự tiềm năng – AIOps/DevOps Engineer (AIO)
+
+👉 Đang cào trang 21...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Tập sự tiềm năng – AI Engineer (AIE)
+    [~] DB đã có: Mid/Sr Java Engineer (SpringBoot, Microservices)- BONUS
+    [~] DB đã có: Tech Project Manager (English speaking)
+    [~] DB đã có: DevOps Engineer - Upto 3500$
+    [~] DB đã có: QA Engineer (Automation, Mobile App, pytest)
+    [~] DB đã có: UI/UX Designer (Mobile & WebApp)
+    [~] DB đã có: Software Developer (Java, .NET, JavaScript)
+    [~] DB đã có: IT Comtor (Japanese – JLPT N2+)
+    [~] DB đã có: Business Analyst (BA) SAP S/4HANA PP
+    [~] DB đã có: WordPress Developer (PHP, HTML, CSS, JavaScript)
+    [~] DB đã có: UI UX Designer (Figma, Design System, User flows)
+    [~] DB đã có: Business Analyst — AI Solutions (Agile, Figma, BRD/FRD)
+    [~] DB đã có: Master Data Specialist (SAP, ERP, SQL, Python)
+    [~] DB đã có: System Engineer
+    [~] DB đã có: Audio Engineer (Embedded / Linux / Android)
+    [~] DB đã có: Process Quality Assurance (PQA, QA QC)
+    [~] DB đã có: QA Specialist
+    [~] DB đã có: Senior AI/ML Engineer (OCR, English)
+    [~] DB đã có: IT Executive (Retail Infrastructure)
+    [~] DB đã có: [Cần Thơ] Fresher PHP (Good English communication)
+
+👉 Đang cào trang 22...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: [Cần Thơ] NodeJS Developer (Eng)
+    [~] DB đã có: Junior Product Owner
+    [~] DB đã có: IT Manager (Infrastructure & Security)
+    [~] DB đã có: Middle - Senior QA Test Automation Engineer
+    [~] DB đã có: DevOps Engineer
+    [~] DB đã có: Cloud DevOps Engineer (open for Junior and Middle)
+    [~] DB đã có: Middle PHP Developer (YII2/LARAVEL)
+    [~] DB đã có: Python / AI Developer (Middle & Above) - Infrastructure
+    [~] DB đã có: Mid/Sr Fullstack Dev (Golang, NextJS/ReactJS) - YouPass
+    [~] DB đã có: QC Intern
+    [~] DB đã có: Automotive Embedded Software Engineer (ASAP)
+    [~] DB đã có: Backend Dev (Java, Microservices, Spring Boot, Docker)
+    [~] DB đã có: Infrastructure Lead (Cloud)
+    [~] DB đã có: Back End Developer (C#, .NET, SQL)
+    [~] DB đã có: Fullstack Java Developer (Good At English)
+    [~] DB đã có: Golang Backend Engineer
+    [~] DB đã có: Embedded Firmware Engineer – BLE & IoT
+    [~] DB đã có: Computer Vision Engineer – Edge AI (Junior level)
+    [~] DB đã có: Cloud & DevOps Engineer (Azure, AWS)
+    [~] DB đã có: Tech Lead/Principal Backend Engineer – Java
+
+👉 Đang cào trang 23...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Senior Product Owner [WMS]
+    [~] DB đã có: Senior Technical Business Analyst
+    [~] DB đã có: Head of Information Security (Security Manager)
+    [~] DB đã có: Head of AI & Data
+    [~] DB đã có: Sr Backend Engineer (Blockchain, Crypto Exchange)
+    [~] DB đã có: 2D Concept Artist All level
+    [~] DB đã có: Oracle Consultant Intern
+    [~] DB đã có: Staff Mobile Engineer (Android/iOS, Fluent in English)
+    [~] DB đã có: Senior DevOps Engineer (Fluent in English)
+    [~] DB đã có: Middle Frontend Developer – (React / Next.js)
+    [~] DB đã có: [English] Senior Technical Project Manager
+    [~] DB đã có: Manual QC Engineer (Middle)
+    [~] DB đã có: Database Developer (SQL, Oracle)
+    [~] DB đã có: Project Manager (Senior - PMO)
+    [~] DB đã có: Data Engineer - Data Division
+    [~] DB đã có: Automation QA Engineer
+    [~] DB đã có: Senior Backend Developer (Java/Springboot) – ID7982
+    [~] DB đã có: Head of Engineering - Digital Banking/Payment – ID10994
+    [~] DB đã có: Senior QA Engineer / QA Leader
+    [~] DB đã có: Senior Backend Engineer (AI Platform)
+
+👉 Đang cào trang 24...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Remote AI Agent Engineer
+    [~] DB đã có: Remote Fullstack Engineer (AI Experience)
+    [~] DB đã có: Mid/Sr Business Analyst (English) - 2V074
+    [~] DB đã có: Manual Tester (QA/QC)
+    [~] DB đã có: .NET Developer
+    [~] DB đã có: [Hybrid] Backend Engineer - LLM (Python/FastAPI/Django)
+    [~] DB đã có: Lead Business Analyst
+    [~] DB đã có: CV/CVCC Business Analyst
+    [~] DB đã có: Infrastructure & Security Engineer
+    [~] DB đã có: IT Quality Control Officer (Manual Tester)
+    [~] DB đã có: Middle DevOps Engineer
+    [~] DB đã có: Head of Project Management (IT Software)
+    [~] DB đã có: Intern C/C++ Embedded & Systems Engineer
+    [~] DB đã có: Business Analyst Leader
+    [~] DB đã có: Technical Business Analyst
+    [~] DB đã có: Data Leader
+    [~] DB đã có: Project Manager - Supply Chain Operations
+    [~] DB đã có: Senior C++ Developer (Windows/Linux Kernel Driver)
+    [~] DB đã có: Generative Game Artist (Intern)
+    [~] DB đã có: Senior Backend Engineer
+
+👉 Đang cào trang 25...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Senior QA Engineer (Automation, Selenium, Playwright)
+    [~] DB đã có: Java Backend Developer (Middle-Senior)
+    [~] DB đã có: Senior Full-stack Mobile Developer (Flutter, React)
+    [~] DB đã có: Business Analyst
+    [~] DB đã có: Intern for Embedded Developer
+    [~] DB đã có: Java Backend Developer Manag
+    [~] DB đã có: Business Analyst/ Data Analyst
+    [~] DB đã có: Viettel AI_Kỹ sư Phát triển phần mềm
+    [~] DB đã có: .NET Developers (English, Mortgage Systems)
+    [~] DB đã có: Intern AI / Python Engineering  (Japanese at least N4)
+    [~] DB đã có: Manual/Automation Tester - Quality Analyst (QA QC)
+    [~] DB đã có: Middle Unity Developer
+    [~] DB đã có: Senior Ruby Developer (RoR, ReactJS)
+    [~] DB đã có: Senior Backend & Platform Engineer – Fintech
+    [~] DB đã có: Product Manager (Owner-level) — POS & Restaurant Tech
+    [~] DB đã có: Remote Data Engineer - AI Data Platform Japan (Python)
+    [~] DB đã có: Application Consultant (Java, Python, SQL)
+    [~] DB đã có: Software Developer (Fresher/Junior, Good English)
+    [~] DB đã có: AI Appllication Engineer (Python/Intergration)
+    [~] DB đã có: Network Engineer (Cisco, Firewall, System Admin)
+
+👉 Đang cào trang 26...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Business Analyst ( BRD, SRS, User Story, Agile/Scrum)
+    [~] DB đã có: DevOps/ DevSecOps Engineer (AWS, Docker, CI/CD)
+    [~] DB đã có: Data Analyst (BI, Power BI, SQL, Data Warehouse, ETL)
+    [~] DB đã có: Kỹ sư Tự động hóa (Embedded, C#, C++, Smart Home)
+    [~] DB đã có: Kỹ Sư Lập Trình Smart Home (IoT, Embedded, C#, C++)
+    [~] DB đã có: Senior Data Engineer (Python, ETL)
+    [~] DB đã có: IT Technical Director
+    [~] DB đã có: Android Developer (React Native)
+    [~] DB đã có: Business Analyst (ERP, Wireframe, Figma)
+    [~] DB đã có: IT Project Manager (ERP E-Commerce, CRM, HRM)
+    [~] DB đã có: Senior Fullstack Engineer (.Net, Angular)
+    [~] DB đã có: Python Engineer
+    [~] DB đã có: Mid/Senior Fullstack Developer (ReactJS, NodeJS)
+    [~] DB đã có: Product Manager - Fintech
+    [~] DB đã có: Tester Intern
+    [~] DB đã có: Data & Business Intelligence Professional / Senior Prof
+    [~] DB đã có: ADAS Embedded Software Architect
+    [~] DB đã có: SENIOR TESTER (QC Lead)
+    [~] DB đã có: Senior Java Software Engineer (Spring, Cloud, AI)
+    [~] DB đã có: Senior Golang Backend Engineer
+
+👉 Đang cào trang 27...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: Senior Software Engineer (Fullstack, Golang/JavaScript)
+    [~] DB đã có: Senior Data Engineer (Streaming Data)
+    [~] DB đã có: Agentic AI Engineer (LLM, Python)
+    [~] DB đã có: Senior Developer
+    [~] DB đã có: [Remote] Unity Developer (WebGL / C# / JavaScript)
+    [~] DB đã có: Middle/Senior Developer (NodeJS, ReactJS, AI)
+    [~] DB đã có: Engineering Team Lead (AI-native, Java, English)
+    [~] DB đã có: Senior DevOps Engineer
+    [~] DB đã có: Senior Infrastructure Engineer (AWS & Cloud)
+    [~] DB đã có: Senior Fullstack Engineer (Java + React)
+    [~] DB đã có: Senior Data Engineer  (Mobile App/ Data Platform)
+    [~] DB đã có: [Intern Job] Future VPBanker Scholarship 2026 ID10797
+    [~] DB đã có: Senior Backend Engineer (Python, ERP)
+    [~] DB đã có: Advertising Monetization Specialist (Fresher/Junior)
+    [~] DB đã có: Senior QC Engineer (Manual/Automation)
+    [~] DB đã có: Business Analyst – Lumin Team  (2-3 years, Up to $1800)
+    [~] DB đã có: Cloud Operations Engineer
+    [~] DB đã có: Thực tập sinh phân tích nghiệp vụ
+    [~] DB đã có: Mobile Engineer (React Native)
+    [~] DB đã có: Lead Fullstack Developer (.NET & Angular)
+
+👉 Đang cào trang 28...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [~] DB đã có: [Operational Risk] _IT Risk
+    [~] DB đã có: Chief Technology Officer (AI, Software Architecture)
+    [~] DB đã có: ReactJS Developer
+    [~] DB đã có: Thực tập sinh lập trình
+    [~] DB đã có: Quản lý dự án- Project Manager
+    [+] Project Manager (English Good, Business Analysis) | Sal:  | Exp: 3 năm
+    [+] Trưởng/Phó phòng -P. Phân tích Mô hình DN & Định chế TC | Sal: 2,000 - 3,500 USD | Exp: 5 năm
+    [⏸] Nghỉ 5s sau 180 JDs...
+    [+] Chuyên gia Phân tích mô hình DN & Định chế tài chính | Sal: 1,500 - 2,500 USD | Exp: 3 năm
+    [+] Data Engineer (English required, Ho Chi Minh/Ha Noi) | Sal:  | Exp: 10 tháng
+    [+] Internship - BA | Sal: Đến 200 USD | Exp: 
+    [+] AI Lead - GenAI, RAG, AI Agents | Sal: 1,700 - 3,000 USD | Exp: 3 năm
+    [+] ServiceNow (JavaScript) Fresher | Sal:  | Exp: 
+    [+] Frontend Developer (ERP Focus, ReactJS, VueJS) | Sal:  | Exp: 10 tháng
+    [+] Fullstack Developer (.NET, ReactJS) | Sal:  | Exp: 10 tháng
+    [+] Senior Software Engineer (Node.js, React, Java, Kotlin) | Sal:  | Exp: 3 năm
+    [+] [English] Mid-Senior Business Analyst | Sal:  | Exp: 10 tháng
+    [+] Business Analyst (Middle) | Sal:  | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 190 JDs...
+    [+] Nhân viên triển khai phần mềm ERP/DMS | Sal:  | Exp: 10 tháng
+    [+] Project Manager (Junior - ERP & DMS Software Delivery) | Sal:  | Exp: 10 tháng
+    [+] Project Manager (Insurance) | Sal:  | Exp: 3 năm
+
+👉 Đang cào trang 29...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] QA Engineer (Manual & Automation Tester) | Sal:  | Exp: 10 tháng
+    [+] Business Intelligence Analyst (Financial Services) | Sal:  | Exp: 10 tháng
+    [+] Middle Python Developer | Sal: 700 - 1,500 USD | Exp: 10 tháng
+    [+] Network Security Intern | Sal:  | Exp: 
+    [+] [Sign-on Bonus] IT Business Analyst - Agentic AI | Sal: 1,500 - 2,000 USD | Exp: 3 năm
+    [+] Senior Fullstack Developer (NodeJS, ReactJS, English) | Sal:  | Exp: 3 năm
+    [+] Senior Golang Developer (AI, JSON, SQL, Linux) | Sal:  | Exp: 3 năm
+    [⏸] Nghỉ 5s sau 200 JDs...
+    [+] Manual Tester (QA/QC, Good English) | Sal:  | Exp: 
+    [+] Junior Business Analyst (Fluent English) | Sal:  | Exp: 10 tháng
+    [+] Senior/Middle Machine Learning Engineer | Sal:  | Exp: 3 năm
+    [+] Backend Engineer | Sal:  | Exp: 3 năm
+    [+] Java Developer (Middle - Senior) | Sal:  | Exp: 3 năm
+    [+] Full-stack Developer | Sal:  | Exp: 10 tháng
+    [+] Senior Java Fullstack Developer | Sal:  | Exp: 3 năm
+    [+] Software Engineer (Java) | Sal:  | Exp: 10 tháng
+    [+] Software Engineer ( C/C++/Java, Linux/ Android) | Sal:  | Exp: 10 tháng
+    [+] AI Cloud FullStack Developer (Java/ Node/ AWS/Angular) | Sal:  | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 210 JDs...
+    [+] Fullstack Developer (Nexacro / Front End/ Java) HCM ĐN | Sal:  | Exp: 10 tháng
+    [+] (Good English/Urgent Hiring) Business Analyst | Banking | Sal:  | Exp: 3 năm
+    [+] Principal Software Engineer (LLM Agents) | Sal:  | Exp: 3 năm
+
+👉 Đang cào trang 30...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] [Cần Thơ] FrontEnd Developer | Sal:  | Exp: 
+    [+] DevOps Engineer | Sal:  | Exp: 10 tháng
+    [+] Senior FullStack Developer (NodeJS/ReactJS) | Sal:  | Exp: 3 năm
+    [+] Project Leader – Japanese Communication | Sal:  | Exp: 3 năm
+    [+] AI-Augmented Software Engineer (.NET & AI Agents) | Sal:  | Exp: 10 tháng
+    [+] Senior Flutter Software Engineer | Sal:  | Exp: 3 năm
+    [+] AI Engineer | Sal:  | Exp: 3 năm
+    [⏸] Nghỉ 5s sau 220 JDs...
+    [+] DevOps Intern | Sal:  | Exp: 
+    [+] FullStack Engineer (React, Python/FastAPI, Shopify App) | Sal:  | Exp: 10 tháng
+    [+] QA Engineer (Claude Code, Python, React, Manual Tester) | Sal: 800 - 1,000 USD | Exp: 10 tháng
+    [+] Thực Tập Sinh An Ninh Bảo Mật (Fulltime) | Sal:  | Exp: 
+    [+] C++/Rust Software Engineer | Sal:  | Exp: 10 tháng
+    [+] AI Engineer | Sal:  | Exp: 3 năm
+    [+] Senior Backend Developer (Ruby on Rails, Java) | Sal:  | Exp: 10 tháng
+    [+] Chuyên viên Chính sách Và Tuân thủ An toàn Thông tin | Sal:  | Exp: 10 tháng
+    [+] Chuyên viên Quản trị Hệ thống (System Administrator) | Sal:  | Exp: 10 tháng
+    [+] Chuyên viên Vận hành Giám sát ATTT | Sal:  | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 230 JDs...
+    [+] Full Stack Developer – Web3/Blockchain | Sal:  | Exp: 10 tháng
+    [+] .NET developers for Ifinancial Ltd | Sal: 1,300 - 1,600 USD | Exp: 3 năm
+    [+] AI Research & Content Generator | Sal:  | Exp: 
+
+👉 Đang cào trang 31...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] Chuyên viên dữ liệu | Sal: 1,000 - 1,500 USD | Exp: 
+    [+] Technical Program Manager | Sal:  | Exp: 5 năm
+    [+] Junior 2D Game Artist (Animation & VFX) | Sal:  | Exp: 
+    [+] AI Engineer (GenAI/Machine Learning/Python) | Sal: 1,000 - 2,000 USD | Exp: 10 tháng
+    [+] SRE (DevOps, GCP, Kubernetes, Terraform) | Sal:  | Exp: 10 tháng
+    [+] Senior Automation Test (AI, QA QC, API) | Sal:  | Exp: 3 năm
+    [+] Senior Backend Engineer (Java/ Spring Boot) | Sal: 1,500 - 2,500 USD | Exp: 3 năm
+    [⏸] Nghỉ 5s sau 240 JDs...
+    [+] Data Governance Manager | Sal:  | Exp: 5 năm
+    [+] Data Solutions Manager | Sal:  | Exp: 3 năm
+    [+] Delivery Manager (Project Manager is welcome to apply) | Sal:  | Exp: 3 năm
+    [+] AI Solution Architect/ Senior AI Engineer | Sal:  | Exp: 3 năm
+    [+] Fullstack Developer (Next.js, Node.js) | Sal: 500 - 700 USD | Exp: 10 tháng
+    [+] Fresher Japanese BrSE (BA/IT Comtor) N2 + Giao tiếp tốt | Sal:  | Exp: 
+    [+] Software Engineering Manager (C#, .Net, Azure) | Sal:  | Exp: 5 năm
+    [+] Jr/Mid AI Software Engineer (Python/ AI Integration) | Sal:  | Exp: 10 tháng
+    [+] Senior .NET Back-end Developer (C#, ASP.NET) | Sal:  | Exp: 3 năm
+    [+] Backend Engineer - Middle/Senior (Java, AWS) | Sal:  | Exp: 3 năm
+    [⏸] Nghỉ 5s sau 250 JDs...
+    [+] QA Engineer (Manual, Automation) - Weverse | Sal:  | Exp: 3 năm
+    [+] Remote - Senior QA Engineer | Sal: 2,000 - 3,500 USD | Exp: 3 năm
+    [+] (Middle/Senior) Mobile Developer | Sal:  | Exp: 3 năm
+
+👉 Đang cào trang 32...
+  📋 Tìm thấy 20 jobs, bắt đầu xử lý...
+    [+] UI-UX Designer (Figma, Product Design, Design System) | Sal:  | Exp: 10 tháng
+    [+] (Middile/Senior) Automation Tester/QC | Sal:  | Exp: 3 năm
+    [+] Database Administrator (OracleDB, MS SQL, PostgreSQL) | Sal:  | Exp: 3 năm
+    [+] [Game Live-Ops] Game UI/UX Artist | Sal:  | Exp: 3 năm
+    [+] [Game Live-Ops] Game Art Director | Sal:  | Exp: 5 năm
+    [+] Middle/ Senior Business Analyst (ERP) | Sal:  | Exp: 10 tháng
+    [+] QC Engineer (API, SQL, Automation Testing) | Sal:  | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 260 JDs...
+    [+] Principal Backend Engineer (Golang, Microservices) | Sal:  | Exp: 3 năm
+    [+] Senior AI Native Engineer (React, Next.js, Flutter) | Sal:  | Exp: 3 năm
+    [+] (Middle/Senior) Backend Developer | Sal:  | Exp: 3 năm
+    [+] Senior Java Software Engineer (Fullstack, SaaS product) | Sal: 1,300 - 1,600 USD | Exp: 3 năm
+    [+] [Sign-on Bonus] QA Lead - Agentic AI | Sal: 2,500 - 3,000 USD | Exp: 5 năm
+    [+] Senior Product Owner (E-commerce, Data) | Sal:  | Exp: 3 năm
+    [+] 02 Business Analyst (Digital Transformation) | Sal:  | Exp: 10 tháng
+    [+] Software Engineer (AI Coding Agent/.Net/Java) | Sal:  | Exp: 10 tháng
+    [+] Data Analyst (Azure, SQL, NoSQL, Power BI) | Sal:  | Exp: 10 tháng
+    [+] Chuyên viên Kiểm thử - Tester -Khối Công nghệ thông tin | Sal:  | Exp: 10 tháng
+    [⏸] Nghỉ 5s sau 270 JDs...
+    [+] Fullstack Tech Lead (Node.js, React, Java, Kotlin) | Sal:  | Exp: 5 năm
+    [+] Senior .NET Developer (Flex Working Time & Global SaaS) | Sal:  | Exp: 3 năm
+    [+] Senior Software Engineer, Android | Sal:  | Exp: 3 năm
+
+👉 Đang cào trang 33...
+  📋 Tìm thấy 1 jobs, bắt đầu xử lý...
+    [+] Software Engineer Intern (Good English) | Sal:  | Exp: 
+
+👉 Đang cào trang 34...
+  ✅ Không tìm thấy job nào trên trang 34. Đã đến trang cuối.
+
+🧹 Đang dọn dẹp các Job đã đóng...
+✅ Đã đánh dấu CLOSED các jobs ITviec không còn xuất hiện.
+
+🎉 HOÀN THÀNH TOÀN BỘ QUÁ TRÌNH CÀO! (Đã cào mới: 274 JDs)
